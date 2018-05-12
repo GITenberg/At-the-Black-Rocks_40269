@@ -1,0 +1,48 @@
+_repo: At-the-Black-Rocks_40269
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, William
+    - Rainey, W.
+    - Rainey, H. W. (H. William)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 40269-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Rand, Edward A. (Edward Augustus)
+    aliases:
+    - Edward A. Rand
+    - Rand, Edward Augustus
+    birthdate: 1837
+    deathdate: 1903
+    gutenberg_agent_id: '5742'
+    url: http://www.gutenberg.org/2009/agents/5742
+description: ''
+gutenberg_issued: '2012-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Storms -- Juvenile fiction'
+- !lcsh 'Intergenerational relations -- Juvenile fiction'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: At the Black Rocks
+url: http://www.gutenberg.org/ebooks/40269
